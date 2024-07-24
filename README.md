@@ -28,4 +28,4 @@ ADB Settings Manager is a command-line tool designed for managing Android device
 2. **Add ADB to PATH**: Add the ADB binary to your system's PATH environment variable.
 3. **Clone the Repository**:
    ```sh
-   git clone https://github.com/ctrl-alt-dale/adb-settings-manager.git
+   git clone https://github.com/ctrl-alt-dale/adb_settings_manager.git
